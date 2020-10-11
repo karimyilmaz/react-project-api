@@ -1,0 +1,11 @@
+.counter{ 
+    margin-left: 130px;
+}
+
+.counter > button{
+    margin-right: 10px;
+}
+
+.counter > h1 {
+    color: gray;
+}
