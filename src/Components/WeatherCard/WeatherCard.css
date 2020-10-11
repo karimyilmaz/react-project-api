@@ -1,0 +1,13 @@
+.weather-card{
+    border: solid 2px gray;
+    border-radius: 5px;
+    color: white;
+    width: 300px;
+    text-align: center;
+    margin-left: 150px;
+}
+
+.weather-card:hover {
+    background-color: gray;
+    color:black;
+}
